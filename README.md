@@ -123,11 +123,7 @@ function captureUserMedia(success_callback, failure_callback) {
 </script>
 ```
 
-For signaling; please check following page:
 
-https://github.com/muaz-khan/WebRTC-Experiment/blob/master/Signaling.md
-
-Remember, you can use any signaling implementation exists out there without modifying any single line! Just skip below code and open [above link](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/Signaling.md)!
 
 # Want to use [Firebase](https://www.firebase.com/) for signaling?
 
@@ -298,4 +294,3 @@ This [WebRTC Video Conferencing](https://www.webrtc-experiment.com/video-confere
 
 # License
 
-[WebRTC Video Conferencing](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/video-conferencing) is released under [MIT licence](https://www.webrtc-experiment.com/licence/) . Copyright (c) [Muaz Khan](https://plus.google.com/+MuazKhan).
