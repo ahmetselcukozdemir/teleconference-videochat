@@ -1,4 +1,4 @@
-# WebRTC Video Conferencing / [Demo](https://www.webrtc-experiment.com/video-conferencing/)
+# WebRTC Video Conferencing 
 
 1. This [WebRTC](https://www.webrtc-experiment.com/) experiment is aimed to transmit audio/video streams in many-to-many style.
 2. It setups multiple peer connections to support multi-user connectivity feature. Remember, [WebRTC](https://www.webrtc-experiment.com/) doesn't supports 3-way handshake!
