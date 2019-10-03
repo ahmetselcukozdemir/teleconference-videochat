@@ -1,4 +1,4 @@
-# WebRTC Video Conferencing 
+# WebRTC Video Conferencing  
 
 1. This [WebRTC](https://www.webrtc-experiment.com/) experiment is aimed to transmit audio/video streams in many-to-many style.
 2. It setups multiple peer connections to support multi-user connectivity feature. Remember, [WebRTC](https://www.webrtc-experiment.com/) doesn't supports 3-way handshake!
@@ -279,11 +279,10 @@ var conf = conference({
 });
 ```
 
-# Browser Support
+# Browser Support / Desteklediği Tarayıcılar
 
-This [WebRTC Video Conferencing](https://www.webrtc-experiment.com/video-conferencing/) experiment works fine on following web-browsers:
 
-| Browser        | Support           |
+|Browser/Tarayıcı| Support/Destek           |
 | ------------- |-------------|
 | Firefox | [Stable](http://www.mozilla.org/en-US/firefox/new/) / [Aurora](http://www.mozilla.org/en-US/firefox/aurora/) / [Nightly](http://nightly.mozilla.org/) |
 | Google Chrome | [Stable](https://www.google.com/intl/en_uk/chrome/browser/) / [Canary](https://www.google.com/intl/en/chrome/browser/canary.html) / [Beta](https://www.google.com/intl/en/chrome/browser/beta.html) / [Dev](https://www.google.com/intl/en/chrome/browser/index.html?extra=devchannel#eula) |
@@ -292,5 +291,4 @@ This [WebRTC Video Conferencing](https://www.webrtc-experiment.com/video-confere
 | Edge | Version 16 or higher |
 | Safari | Version 11 on both MacOSX and iOS |
 
-# License
 
