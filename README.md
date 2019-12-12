@@ -1,9 +1,4 @@
-# WebRTC Video Conferencing  
-
-1. This [WebRTC](https://www.webrtc-experiment.com/) experiment is aimed to transmit audio/video streams in many-to-many style.
-2. It setups multiple peer connections to support multi-user connectivity feature. Remember, [WebRTC](https://www.webrtc-experiment.com/) doesn't supports 3-way handshake!
-3. Out of multi-peers establishment; many RTP-ports are opened according to number of media streams referenced to each peer connection.
-4. Multi-ports establishment will cause huge [CPU and bandwidth usage](https://www.webrtc-experiment.com/docs/RTP-usage.html)!
+#created by asobey 
 
 
 Live Test-Adresss: https://ahmetselcukozdemir.github.io/teleconference.html
